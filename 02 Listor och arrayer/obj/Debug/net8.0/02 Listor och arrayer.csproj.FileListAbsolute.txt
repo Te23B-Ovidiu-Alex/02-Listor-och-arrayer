@@ -1,0 +1,14 @@
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.exe
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.deps.json
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.runtimeconfig.json
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.pdb
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.AssemblyInfoInputs.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.AssemblyInfo.cs
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.csproj.CoreCompileInputs.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\refint\02 Listor och arrayer.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.pdb
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.genruntimeconfig.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\ref\02 Listor och arrayer.dll
